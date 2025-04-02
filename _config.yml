@@ -1,1 +1,19 @@
+title: My GitHub Pages Website
+author: Your Name
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my awesome GitHub Pages website using the Jekyll minima theme!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nealio.pizza" # the base hostname & protocol for your site
+twitter_username: your_username
+github_username:  nealtdubs
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - README.md
+  - CNAME
