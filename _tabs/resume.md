@@ -56,4 +56,4 @@ DePaul University at Chicago, IL
 
 ---
 
-<a href="/assets/pdfs/resume.pdf" class="btn btn-primary" download>Download PDF Version</a>
+<!-- <a href="/assets/pdfs/resume.pdf" class="btn btn-primary" download>Download PDF Version</a> -->
