@@ -7,10 +7,6 @@ order: 5
 
 # Neal Taylor
 
-St. Louis, MO 63129  
-[nealctaylor@gmail.com](mailto:nealctaylor@gmail.com)  
-(314)-604-7621
-
 ## Work History
 
 ### Site Reliability Engineer II
